@@ -1,5 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/MartMbithi/OHCMS/master/Modules/Admin/assets/img/logo.png"></p>
-<p align="center"><img src="https://raw.githubusercontent.com/MartMbithi/OHCMS/master/admin_dashboard.png"></p>
+
 
 
 ## About Orion HealthCare Hospital Information System
